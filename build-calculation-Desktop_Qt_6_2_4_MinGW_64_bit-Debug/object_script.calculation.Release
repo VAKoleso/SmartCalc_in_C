@@ -1,0 +1,10 @@
+release/credit.o
+release/s21_calc.o
+release/grafic.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/moc_credit.o
+release/moc_grafic.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o
