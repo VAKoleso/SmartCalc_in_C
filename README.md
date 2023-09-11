@@ -1,4 +1,4 @@
-# SmartCalc v1.0
+# SmartCalc
 
 Реализация SmartCalc на C
 
